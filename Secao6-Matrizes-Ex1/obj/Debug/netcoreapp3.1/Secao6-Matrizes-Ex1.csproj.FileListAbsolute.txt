@@ -1,0 +1,13 @@
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\obj\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.csprojAssemblyReference.cache
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\obj\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.AssemblyInfoInputs.cache
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\obj\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.AssemblyInfo.cs
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\obj\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.csproj.CoreCompileInputs.cache
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\bin\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.exe
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\bin\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.deps.json
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\bin\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.runtimeconfig.json
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\bin\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.runtimeconfig.dev.json
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\bin\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.dll
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\bin\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.pdb
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\obj\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.dll
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\obj\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.pdb
+D:\OneDrive\C#\Projetos\Secao6-Matrizes-Ex1\Secao6-Matrizes-Ex1\obj\Debug\netcoreapp3.1\Secao6-Matrizes-Ex1.genruntimeconfig.cache
